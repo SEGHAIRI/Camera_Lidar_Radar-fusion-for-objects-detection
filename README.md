@@ -47,7 +47,7 @@ Note : camera, lidar and radar detections are in txt files that must have the sa
 ## **Quick start**
 
  ```
-python3 ./class_radar.py ./data/city/Detection_camera/  ./data/city/Detection_radar/ ./data/city/Detection_lidar/ -b Draw_bbox False False False
+python3 ./main.py ./data/city/Detection_camera/  ./data/city/Detection_radar/ ./data/city/Detection_lidar/ -b Draw_bbox False False False
  ```
 
 ## Result
