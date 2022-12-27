@@ -20,7 +20,7 @@ Be sure to have the following:
 * You will need some python libraries. So install them by using pip:
 
   ```
-  pip3 install <library_name>==<version>
+  pip install -r requirements.txt
   ```
 
 ## **How to run**
